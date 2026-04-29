@@ -911,7 +911,7 @@ requires-dist = [
 
 [[package]]
 name = "giskard-core"
-version = "1.0.1b2"
+version = "1.0.1b3"
 source = { editable = "libs/giskard-core" }
 dependencies = [
     { name = "posthog" },
